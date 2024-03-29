@@ -1,5 +1,6 @@
 1. Create environment virtual
-2. execute command 'pip install -r requirements.txt '
+2. Execute command 'pip install -r requirements.txt '
+3. Execute main.py file
 
 "Description"
 This a project base for generate api security and authorization
